@@ -20,6 +20,10 @@ A modern React + Next.js profile card application built using Props and State co
 - TypeScript
 - CSS3
 
+## Live Demo
+
+[Click ME](https://dynamic-profile-card-app-puce.vercel.app/)
+
 ## Project Structure
 
 ```bash
@@ -30,6 +34,4 @@ public/
 styles/
 
 
-## Live Demo
 
-[Click ME](https://dynamic-profile-card-app-puce.vercel.app/)
